@@ -1,4 +1,4 @@
-# Pokemon
+# Pokédex
 
 Application react qui liste plusieurs pokemons. On peut voir la fiche détaillée de chaque pokemon, on a la possibilité de modifier ses caractéristiques ou tout simplement le supprimer. On peut aussi ajouter un pokemon.
 
