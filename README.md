@@ -1,2 +1,2 @@
 # Pokemon
-<img src="/Users/abdelkrimnaji/Desktop/Capture d’écran 2020-09-18 à 11.11.11.png" width="800px" height="auto">
+<img src="/Users/abdelkrimnaji/Desktop/Capture%20d’écran%202020-09-18%20à%2011.11.11.png" width="200px" height="auto">
